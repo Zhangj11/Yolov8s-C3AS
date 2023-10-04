@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="14028748-4d2f-44d1-b0e3-dfc852a9f0cd" name="zbc">
+        <fileTransfer rootFolder="/home/ubuntu/E/zbc" accessType="SFTP" host="172.16.2.15" port="22" sshConfigId="80087fba-9291-4e9b-bd26-6f701b84c067" sshConfig="ubuntu@172.16.2.15:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,3 +1,6 @@
+这是一个基于yolov8s改进的无人机检测项目，具体改进事项和细节后续会逐渐补齐
+This is a yolov8s based on the improvement of the drone inspection project, the specific improvements and details will be gradually fill in the subsequent
+
 We use mmyolo as the development framework, you can refer to the official website of mmyolo at https://github.com/open-mmlab/mmyolo
 -------------------------------------------------------------------------------------------------
 
